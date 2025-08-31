@@ -97,9 +97,8 @@ Example accuracy curves:
    ```bash
    conda create -n myEnv python=3.10
    conda activate myEnv
-4. After the virtual environment is set, install the required dependencies as provided in the requirements.txt file.
-   ```bash
-   pip install -r requirements.txt
+4. After the virtual environment is set, install the required dependencies as in the notebook.
+   
 5. When all the dependencies are installed, launch the Jupyter Notebook.
    ```bash
    jupyter notebook Alzheimer-Detection-ResNet.ipynb
