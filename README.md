@@ -87,8 +87,8 @@ Example accuracy curves:
 ## 💻 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Alzheimer-Stage-Detection-ResNet.git
-   cd Alzheimer-Stage-Detection-ResNet
+   git clone https://github.com/kanaad-lims/Alzheimer-Classification-using-ResNet.git
+   cd Alzheimer-Classification-using-ResNet
 2. Create a virtual environment with python version == 3.10 (since tensorflow and keras version conflicts with the newer Python 3.13).
    ```bash
    cd Alzheimer-Classification-using-ResNet
