@@ -102,4 +102,4 @@ Example accuracy curves:
    pip install -r requirements.txt
 5. When all the dependencies are installed, launch the Jupyter Notebook.
    ```bash
-   jupyter notebook Alzheimer-Detection-Resnet.ipynb
+   jupyter notebook Alzheimer-Detection-ResNet.ipynb
